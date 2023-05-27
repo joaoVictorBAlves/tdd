@@ -1,0 +1,14 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "study of tdd with mocha js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "João Victor Barroso Alves",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
